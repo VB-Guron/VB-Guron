@@ -7,7 +7,7 @@ Hi there! This is a newly created github account for the year 2023. The goal of 
 
 - 📫 How to reach me **vb.guron@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/vbguron/</h3>
 <p align="left">
 </p>
 
