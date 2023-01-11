@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Von Bryan Guron</h1>
 <h3 align="center">~ A computer science student ~</h3>
 
+<p algin = "justify">
 Hi there! This is a newly created github account for the year 2023. The goal of creating a new account is to try and maintain and more professional and presentable repositories. More projects are currently uploading while some may be uploaded next month as I maxed out the avalablie bandwidth of uploads on github. Additionally, contribution invitation are still being sent to some of the co-authors of some collaboration repositories.
-
+</p>
 
 - 📫 How to reach me **vb.guron@gmail.com**
 
